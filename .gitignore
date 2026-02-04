@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# Данные
+data/raw/
+data/processed/
+data/results/
+
+# Тестовые артефакты
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+*.log
