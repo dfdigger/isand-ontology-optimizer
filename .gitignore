@@ -10,6 +10,9 @@ venv/
 # VSCode
 .vscode/
 
+# macOS
+.DS_Store
+
 # Данные
 data/results/
 
